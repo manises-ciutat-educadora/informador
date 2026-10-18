@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Informador de Manises · Ciutat Educadora</title>
+<meta name="description" content="Agent d'IA que informa sobre l'oferta formativa de Manises (València): escoles infantils, col·legis, instituts, formació d'adults, tallers, beques i ajudes. Multilingüe, amb veu i lletra ampliable.">
+<meta name="theme-color" content="#1e4f9e">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" type="image/png" sizes="48x48" href="iconos/favicon-48.png">
+<link rel="apple-touch-icon" href="iconos/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Informador Manises">
+<link rel="stylesheet" href="styles.css">
+<base target="_blank">
+</head>
+<body>
+
+<header class="cap">
+  <img class="logo" src="iconos/icon-192.png" alt="Logotip: rajola ceràmica de Manises amb la paraula Educació">
+  <div class="titols">
+    <h1>Informador de Manises</h1>
+    <p class="subtitol">Ciutat Educadora · Informer de Manises · 马尼塞斯教育之城</p>
+  </div>
+</header>
+
+<nav class="barra" aria-label="Opcions d'accessibilitat i idioma">
+  <div class="grup" role="group" aria-label="Mida de lletra">
+    <button id="lletra-menys" class="boto eina" title="Reduir la mida de la lletra" aria-label="Reduir la mida de la lletra">A−</button>
+    <button id="lletra-reset" class="boto eina" title="Mida de lletra normal" aria-label="Mida de lletra normal">A</button>
+    <button id="lletra-mes" class="boto eina" title="Augmentar la mida de la lletra" aria-label="Augmentar la mida de la lletra">A+</button>
+  </div>
+  <label class="seleccio-idioma">
+    <span class="sr-only">Idioma / Language / اللغة / Limba / Мова / 语言 / Lingua / Lugha / Sprache</span>
+    <select id="idioma" aria-label="Tria la llengua de la conversa"></select>
+  </label>
+  <button id="instalar" class="boto or" hidden>📱 <span id="instalar-text">Instal·lar app</span></button>
+</nav>
+
+<main>
+  <section id="xat" class="xat" aria-live="polite" aria-label="Conversa amb l'Informador"></section>
+
+  <form id="formulari" class="formulari" autocomplete="off">
+    <button type="button" id="micro" class="boto eina gran" title="Parla" aria-label="Dictar la pregunta amb veu">🎙️</button>
+    <input id="entrada" type="text" required
+           placeholder="Escriu la teua pregunta…"
+           aria-label="Escriu la teua pregunta sobre l'oferta formativa de Manises">
+    <button type="submit" id="enviar" class="boto gran" title="Envia" aria-label="Envia la pregunta">➤</button>
+  </form>
+  <p id="estat" class="estat" role="status"></p>
+</main>
+
+<footer class="peu">
+  <p>Projecte ciutadà d'informació educativa · Dades: Ajuntament de Manises i Generalitat Valenciana ·
+  Les respostes s'elaboren automàticament: confirma sempre dates i preus a la font oficial.</p>
+</footer>
+
+<script src="app.js" defer></script>
+</body>
+</html>
