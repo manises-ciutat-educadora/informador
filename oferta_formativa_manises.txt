@@ -1,0 +1,556 @@
+================================================================================
+OFERTA FORMATIVA DE MANISES (VALENCIA) - BASE DE CONOCIMIENTO PARA AGENTE IA
+================================================================================
+Fecha de recopilación: 18 de octubre de 2026 (curso escolar en vigor: 2026-2027)
+Código postal de Manises: 46940. Provincia: València. Comunitat Valenciana.
+Idioma del documento: español.
+
+--------------------------------------------------------------------------------
+0. INSTRUCCIONES PARA EL AGENTE (LEER PRIMERO)
+--------------------------------------------------------------------------------
+0.1 Responde solo con lo que figura en este documento. Si un dato no aparece o
+    está marcado como "NO VERIFICADO" o "NO LOCALIZADO", dilo claramente y
+    remite a la persona al centro, al teléfono o a la web indicados. No inventes
+    teléfonos, precios, plazos ni requisitos.
+0.2 Cada dato lleva su fuente (URL) y un nivel de fiabilidad:
+      [A] Fuente oficial: Generalitat Valenciana, Ayuntamiento de Manises o web
+          del propio centro.
+      [B] Fuente secundaria: prensa, directorios o portales de terceros.
+      [C] Sin contrastar o con discrepancias entre fuentes.
+0.3 Los calendarios de admisión y matrícula citados corresponden al curso
+    2026-2027 y sirven solo como REFERENCIA. No se localizaron los calendarios
+    del curso 2027-2028. Para solicitar plaza hay que consultar siempre las
+    fechas vigentes en la web oficial indicada. Cuando des una fecha, di a qué
+    curso pertenece.
+0.3b Los precios y cuotas pueden cambiar cada curso. Indica siempre el curso al
+    que corresponde el precio citado.
+0.4 Si la persona pregunta por una situación personal (por ejemplo, si cumple
+    los requisitos de acceso, el baremo o una beca), explica la norma general y
+    recomienda confirmar con el centro. No des garantías.
+0.5 Los teléfonos de Manises tienen 9 dígitos y empiezan por 96. En este
+    documento aparecen con y sin espacios; son equivalentes.
+
+--------------------------------------------------------------------------------
+1. CALENDARIO ESCOLAR Y PROCESO DE ADMISIÓN (REFERENCIA CURSO 2026-2027)
+--------------------------------------------------------------------------------
+1.1 Inicio y fin de curso 2026-2027 en la Comunitat Valenciana [A]
+    - Formación Profesional (grado básico, medio y superior): del 9 de
+      septiembre de 2026 al 18 de junio de 2027.
+    - Formación de Personas Adultas: del 14 de septiembre de 2026 al 11 de junio
+      de 2027.
+    - Las fechas de Infantil, Primaria, ESO y Bachillerato no se recogieron en
+      este documento.
+    Fuente: https://sede.gva.es/va/detall-tramit?id_proc=G25685
+    (Resolución de 15 de junio de 2026, Dirección General de Centros Docentes).
+
+1.2 Admisión en Infantil (2º ciclo), Primaria, ESO y Bachillerato en centros
+    públicos y concertados (curso 2026-2027)
+    - Norma: Resolución de 25 de febrero de 2026 (DOGV nº 10313), Decreto
+      48/2024 y Orden 8/2024.
+    - La solicitud se hace SOLO por vía telemática en Adminova:
+      https://portal.edu.gva.es/adminova/
+    - Quién solicita: el padre, la madre o el tutor/a legal. Si el alumno es
+      mayor de edad o menor emancipado, lo solicita él mismo.
+    - Se necesita una "clave de acceso" (identificador y contraseña). Se obtiene
+      con el DNI (número, número de soporte y fecha de nacimiento), con el NIE
+      (más número de soporte y fecha de nacimiento), con certificado digital
+      ACCV, con Cl@ve o con eDNI.
+    - Quien no tenga medios digitales o solo disponga de pasaporte puede acudir
+      al centro que pida en primera opción, que actúa como punto de atención.
+    - Con la solicitud no se aporta documentación (se hace una declaración
+      responsable). La documentación acreditativa se presenta al formalizar la
+      matrícula.
+    - Los centros concertados (El Carmen y Sagrada Familia) siguen el mismo
+      decreto de admisión (Decreto 48/2024: centros públicos y privados
+      concertados).
+    Plazos de referencia 2026-2027 (fase ordinaria):
+      * Infantil y Primaria: del 7 de mayo (9:00 h) al 18 de mayo de 2026
+        (10:59 h).
+      * ESO: del 21 de mayo (9:00 h) al 1 de junio de 2026 (10:59 h).
+    Fase extraordinaria 2026-2027:
+      * Infantil y Primaria: del 13 al 16 de julio de 2026.
+      * ESO: del 17 al 20 de julio de 2026.
+    Formalización de matrícula (Infantil y Primaria, fase ordinaria): del 18 de
+    junio al 2 de julio de 2026.
+    BACHILLERATO: NO se confirmó un plazo (ver discrepancia en el apartado 12).
+    Fuentes [A]/[B]:
+      https://www.alicante.es/es/tramites/matriculacion-escolar-curso-2026-2027
+        (reproduce las fechas de la Resolución de 25/02/2026; es un portal
+        municipal de otra ciudad, pero cita la norma autonómica)
+      https://portal.edu.gva.es/ceipsanroquealicante/wp-content/uploads/sites/1020/2026/03/Anexo-I_Calendario-admision-Infantil-y-Primaria_FASE-ORDINARIA.pdf
+      Página del Ayuntamiento de Manises sobre admisión 2026-2027:
+      https://www.manises.es/es/taxonomy/term/1127?page=0
+
+1.3 Admisión en Formación Profesional (curso 2026-2027)
+    - Solicitud solo online en Adminova: https://portal.edu.gva.es/adminova/
+    - Ciclos de grado medio y superior: solicitud del 20 al 28 de mayo de 2026.
+    - Grado básico y cursos de especialización: del 25 de mayo al 2 de junio de
+      2026 (según prensa).
+    - Grado básico de segunda oportunidad y programas formativos de
+      cualificación básica: del 2 al 8 de julio de 2026 (según prensa).
+    - Información oficial: https://ceice.gva.es/es/web/formacion-profesional/admissio
+    Fuentes: [A] https://portal.edu.gva.es/iesdoctorbalmis/wp-content/uploads/sites/434/2026/04/Admision-FP-2026-2027-ciclo-medio-y-superior.pdf
+             [B] https://www.eldebate.com/espana/comunidad-valenciana/20260511/educacion-fija-calendario-admision-fp-comunidad-valenciana-fechas-requisitos-curso-20262027_413680.html
+    - Norma citada en documentos de centros: resolución de 23 de abril de 2026
+      (DOGV 2026/12081):
+      https://dogv.gva.es/datos/2026/04/27/pdf/2026_12081_es.pdf
+
+--------------------------------------------------------------------------------
+2. EDUCACIÓN INFANTIL 0-3 AÑOS (PRIMER CICLO)
+--------------------------------------------------------------------------------
+Fuente general [A]: https://www.manises.es/es/educacio/pagina/educacion-infantil-0-3
+Gestión municipal: Concejalía de Educación (unidad "Educación e Infancia").
+
+2.1 Escuelas Infantiles Municipales (EIM) [A]
+    - EIM La Tarara: C/ Paterna, 12. Tel. 96 154 67 18. eitarara@manises.es
+    - EIM Gesmil: C/ Trinquet, 5. Tel. 96 152 07 09. eigesmil@manises.es
+    - EIM La Pinadeta: Avinguda dels Esports, s/n. Tel. 96 108 30 29.
+      eipinadeta@manises.es
+    Fuente: https://www.manises.es/es/educacio/pagina/escuelas-infantiles-municipales-0
+    Los listados de admitidos 2026-2027 y el "calendario de admisión
+    2026-2027" figuran en:
+    https://www.manises.es/es/educacio/pagina/escuelas-infantiles-municipales
+    (no se pudieron leer las fechas de esa página; ver apartado 13).
+
+2.2 Edades por escuela (datos del curso 2025-2026) [A]
+    - La Tarara: nacidos en 2024 y 2025.
+    - Gesmil y La Pinadeta: nacidos en 2023, 2024 y 2025.
+    Para el curso 2026-2027 las cohortes cambian: confirmar con la escuela.
+    Fuente: https://www.manises.es/sites/www.manises.es/files/files/educacion/cas/escuelas-infantiles/2025/informacion-para-realizar-la-solicitud.pdf
+
+2.3 Cuándo se solicita (referencia curso 2025-2026) [A]
+    - Plazo ordinario de solicitud 2025-2026: del 14 de abril al 11 de mayo de
+      2025. Las solicitudes posteriores no se baremaban y se asignaban según
+      vacantes.
+    - Formalización de matrícula del alumnado admitido 2025-2026: del 2 al 18 de
+      junio de 2025, por la sede electrónica (manises.sedipualba.es) o de forma
+      presencial en la Oficina de Atención al Ciudadano (OAC, plaza del Castell)
+      con cita previa.
+    - Para el curso 2026-2027, el Ayuntamiento avisa de que las familias
+      admitidas deben formalizar la matrícula para disponer de la plaza (sede
+      electrónica u OAC).
+    Fuentes: https://manises.sedipualba.es/carpetaciudadana/tramite.aspx?idtramite=18937
+             https://www.manises.es/es/educacio/pagina/escuelas-infantiles-municipales
+
+2.4 Costes (curso 2025-2026) [A]
+    - Comedor fijo: 105 euros/mes.
+    - Matinera (horario especial): 28 euros/mes.
+    - La cuota base de escolaridad NO se localizó. Remitir a la escuela.
+    Fuente: https://www.manises.es/sites/www.manises.es/files/files/educacion/cas/escuelas-infantiles/2025/informacion-para-realizar-la-solicitud.pdf
+
+2.5 Escuela Infantil de la Generalitat: "Príncipe Valiente" [A/C]
+    - Titularidad: Conselleria de Educación. C/ Francisco Castelló Gil, 10.
+    - Tel. 96 120 52 00 (dato de la web municipal, posiblemente antiguo; la
+      Generalitat la lista como "Escuela Infantil de Primer Ciclo Príncipe
+      Valiente - Manises").
+    Fuentes: https://www.manises.es/es/educacio/pagina/educacion-infantil-0-3
+             https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=21408
+    - Los datos de admisión de este centro no se localizaron.
+
+--------------------------------------------------------------------------------
+3. EDUCACIÓN INFANTIL (2º CICLO, 3-6 AÑOS) Y PRIMARIA
+--------------------------------------------------------------------------------
+Acceso: proceso de admisión descrito en el apartado 1.2.
+
+3.1 Colegios públicos (CEIP) [A]
+    Fuente: https://www.manises.es/es/pagina/centros-educacion-infantil-2o-ciclo-primaria
+    - CEIP Enric Valor i Vives. C/ Ceramista Alfonso Blat, 26.
+      Tel. 961 20 52 90. 46005077@edu.gva.es
+      Web: https://portal.edu.gva.es/ceipenricvalorvives/
+    - CEIP José García Planells. C/ Velázquez, 2. Tel. 961 20 53 30.
+      46005107@edu.gva.es   Web: https://portal.edu.gva.es/jgarciaplanells/
+    - CEIP Vicente Nicolau Balaguer. C/ Francisco Valldecabres, 8.
+      Tel. 961 20 51 00. 46005090@edu.gva.es
+      Web: https://portal.edu.gva.es/ceipvicentenicolau/
+    - CEIP Benjamín Benlloch. C/ Teruel, 2B. Tel. 961 20 52 40.
+      46005120@edu.gva.es   Web: https://portal.edu.gva.es/ceipbenjaminbenlloch/
+    - CEIP Félix Rodríguez de la Fuente. C/ Teruel, 2. Tel. 962 56 69 50.
+      46005119@edu.gva.es   Web: https://portal.edu.gva.es/elfelix/
+    - CEIP Joan Fuster. Av. de la Generalitat Valenciana, 48.
+      Tel. 962 56 69 70. 46014200@edu.gva.es
+      Web: https://portal.edu.gva.es/ceipjoanfuster/
+    Confirmación de que estos seis centros existen: listado de la Generalitat
+    https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=21408
+
+3.2 Colegios concertados [A/B]
+    Fuente (Ayuntamiento): https://www.manises.es/es/educacio/pagina/colegios-concertados
+    - Colegio Sagrada Familia. C/ Teruel, 3. Tel. 96 154 68 11.
+      colegio@sagradafamiliamanises.org   Web: http://www.sagradafamiliamanises.org/
+    - Colegio El Carmen (denominado "Centro Trilema El Carmen" en el listado
+      municipal de primaria). C/ Valencia, 37B. Tel. 96 154 69 37.
+      Correo: elcarmen.manises@fundaciontrilema.org (listado de primaria) o
+      direccion@colegioelcarmen.es (listado de concertados; web
+      www.colegioelcarmen.es). Hay dos juegos de datos en la web municipal:
+      confirmar con el centro cuál es el vigente.
+    - Etapas que imparten ambos: Infantil, Primaria y Secundaria [B]
+      (https://www.buscocolegio.com/Comunidad-Valenciana/Valencia/buscar-Colegios-Manises.jsp).
+    - Cuotas de los centros concertados: NO LOCALIZADAS. Remitir al centro.
+
+--------------------------------------------------------------------------------
+4. SECUNDARIA OBLIGATORIA, BACHILLERATO Y FORMACIÓN PROFESIONAL
+--------------------------------------------------------------------------------
+Fuentes generales [A]:
+  https://www.manises.es/es/pagina/educacion-secundaria-obligatoria-eso
+  https://www.manises.es/es/educacio/pagina/bachillerato-ciclos-formativos
+
+4.1 IES Ausiàs March [A/B]
+    - C/ Teruel, 4. Tel. 961 20 62 75. 46022580@edu.gva.es
+    - Webs: https://portal.edu.gva.es/46022580/ y http://www.iesausiasmarch.es/
+    - Oferta (ficha Educateca, actualizada en 2021 [B]): ESO (12 unidades);
+      Bachillerato de Ciencias y Tecnología; Bachillerato de Humanidades y
+      Ciencias Sociales; Bachillerato de Artes (vía Artes Plásticas, Imagen y
+      Diseño); Doble titulación Bachillerato-Baccalauréat (Batxibac).
+      http://www.educateca.com/centros/ies-ausias-manises.asp
+    - Teléfono: el de arriba procede del Ayuntamiento y de varias fichas; un
+      portal de terceros muestra otro número antiguo. Usar el 961 20 62 75.
+
+4.2 IES José Rodrigo Botet [A]
+    - C/ Santos Justo y Pastor, 70. Tel. 961 20 60 40. 46005132@edu.gva.es
+    - Web: https://portal.edu.gva.es/iesrodrigobotet/
+    - Registro de la Generalitat:
+      https://sede.gva.es/es/detall-departament?id_dept=21872
+    - Oferta de ESO: confirmada en el listado municipal.
+    - Formación Profesional: un directorio [B] lista Sistemas Microinformáticos
+      y Redes (grado medio), Administración de Sistemas Informáticos en Red y
+      Desarrollo de Aplicaciones Web (grado superior). NO contrastado con la web
+      del centro. https://www.emagister.com/cursos-ies-jose-rodrigo-botet-cen-132068.htm
+    - Este instituto ha sido sede de las pruebas de acceso a ciclos de grado
+      medio y superior en 2024 y 2025 (actas publicadas en su web, p. ej.
+      https://portal.edu.gva.es/iesrodrigobotet/wp-content/uploads/sites/651/2025/06/PACCESO_2025_NOTAS_GM_DEFINITIVAS.pdf).
+      Para 2026-2027 consultar sede y fechas en la convocatoria oficial.
+
+4.3 IES Pere Boïl [A/C]
+    - C/ Ceramista Alfons Blat, 12 (registro de la Generalitat y web del
+      centro) o nº 20 (domicilio social en la web del centro y listado
+      municipal). Ver discrepancia en el apartado 12.
+    - Tel. 961 20 62 25. Email: 46017535@edu.gva.es y secretaria@pereboil.com
+    - Web: https://pereboil.com/es/el-centro/  y  www.pereboil.com
+    - Conserjería: lunes a jueves de 8:00 a 20:30; viernes de 8:00 a 18:00
+      (horario de verano: 8:00 a 14:00) [A, según su web].
+    - Oferta según el centro: ESO, Bachillerato (modalidades pública e
+      internacional) y Formación Profesional. Según el listado municipal
+      (sin fecha): Formación Profesional Básica; Bachillerato Científico-
+      Tecnológico y de Humanidades y Ciencias Sociales; Bachillerato
+      Internacional; ciclos de grado superior de Administración y Finanzas y de
+      Comercio Internacional (presencial y a distancia).
+      La lista de ciclos de grado medio no se pudo leer con fiabilidad.
+    Fuentes: https://www.manises.es/es/educacio/pagina/bachillerato-ciclos-formativos
+             https://sede.gva.es/es/detall-departament?id_dept=21737
+
+4.4 Acceso a FP y requisitos generales
+    - Los requisitos concretos (título de ESO, Bachillerato, prueba de acceso,
+      etc.) deben consultarse en la resolución anual y en
+      https://ceice.gva.es/es/web/formacion-profesional/admissio
+    - No se recoge aquí el detalle de requisitos de cada ciclo.
+
+4.5 Formación en empresas (FCT, prácticas)
+    - No se localizó una oferta específica de "formación en empresas" propia de
+      Manises (por ejemplo, un catálogo de empresas locales que formen).
+    - Los programas municipales de formación ocupacional pueden incluir
+      "prácticas no laborales" en empresas (Ayuntamiento de Manises):
+      https://www.manises.es/es/taxonomy/term/1053?page=6
+    - Para FP: los ciclos incluyen un módulo de formación en centros de trabajo;
+      preguntar al instituto por empresas colaboradoras.
+
+--------------------------------------------------------------------------------
+5. ENSEÑANZAS ARTÍSTICAS: ESCOLA D'ART I SUPERIOR DE CERÀMICA (EASC)
+--------------------------------------------------------------------------------
+- Dirección: C/ Ceramista Alfons Blat, 22, 46940 Manises [A].
+  Fuente: https://sede.gva.es/descarregues/2026/02/136505-ANEXO_II_Centros_PE_VAL.pdf
+- Código de centro: 46005144 (decreto de creación de la Escola Superior de
+  Ceràmica de Manises) [A]: https://dogv.gva.es/datos/2001/01/17/pdf/2001_X270.pdf
+- Estudios: los decretos de la Generalitat establecen estudios superiores de
+  Cerámica [A]: https://dogv.gva.es/datos/2000/07/06/pdf/2000_5600.pdf
+  Un directorio [B] muestra "Cerámica Artística" y "Recubrimientos cerámicos"
+  como grado superior de artes plásticas y diseño:
+  https://www.emagister.com/cursos-escola-superior-ceramica-manises-cen-36993.htm
+  La oferta vigente 2026-2027 NO se contrastó con la web del centro.
+- Acceso: la Generalitat incluye a la EASC de Manises entre los centros donde se
+  realiza la prueba específica y la prueba de acceso para personas sin requisitos
+  académicos (anexos de 2026). Fechas y requisitos: consultar la convocatoria.
+  https://sede.gva.es/descarregues/2026/02/136498-ANEXO_II_CAS_2026.pdf
+- Teléfono y correo de la EASC: NO LOCALIZADOS.
+- Contexto: Manises es "Ciudad Creativa" de la UNESCO (cerámica) desde 2021 [B]:
+  https://www.vozpopuli.com/dolcevita/manises-ciudad-creativa-unesco.html
+
+--------------------------------------------------------------------------------
+6. EDUCACIÓN DE PERSONAS ADULTAS: CFPA MENICIL
+--------------------------------------------------------------------------------
+Centre Públic de Formació de Persones Adultes (CFPA) Menicil, "Escola de
+Persones Adultes de Manises". Centro público de la Generalitat.
+- Dirección: C/ Sants Just i Pastor, 70, 46940 Manises (mismo número que el
+  IES Rodrigo Botet).
+- Teléfono: 961 20 69 10 (cartel de oferta 2025-2026) [A].
+- Web: https://portal.edu.gva.es/epamanises/
+- Registro de la Generalitat:
+  https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=21408
+- Titulaciones: al ser un centro público, los títulos que se obtienen son
+  oficiales y con la misma vigencia que los de un instituto [A]:
+  https://portal.edu.gva.es/epamanises/oferta-formativa/
+
+6.1 Qué se ofrece (oferta publicada del curso 2025-2026; ver apartado 6.3)
+    Formación reglada:
+      - FIPA 1 (antigua alfabetización / neolectores) y FIPA 2 (antiguo
+        pregraduado en secundaria).
+      - ESPA 3 y ESPA 4 (Graduado en ESO para personas adultas, niveles 3 y 4).
+      - Preparación de la prueba de acceso a la universidad para mayores de 25
+        años (también de 45 años según la web del centro).
+      - Cursos preparatorios para pruebas libres de acceso a ciclos formativos de
+        grado medio y superior (la web del centro cita "acceso a ciclos de grado
+        superior").
+      - Preparación de las pruebas libres de la Junta Qualificadora de
+        Coneixements del Valencià.
+    Formación no reglada (certificado de aprovechamiento sin validez académica,
+    pero sí curricular):
+      - Inglés (A1, A1+, A2, B1, B2), Francés A1.
+      - Informática (niveles A1, A2 y B1).
+      - Taller de Historia del Arte y Taller de Literatura.
+      - Español para personas extranjeras.
+    Valenciano: la web lista Valenciano A1, A2, B1 y C1.
+    Fuentes: https://portal.edu.gva.es/epamanises/wp-content/uploads/sites/151/2025/09/Oferta-25-v-v2.pdf
+             https://portal.edu.gva.es/epamanises/oferta-formativa/
+             https://portal.edu.gva.es/epamanises/ingles/
+             https://portal.edu.gva.es/epamanises/acceso-universidad-es/
+    Los cursos de inglés son de dos días alternos por semana (web del centro).
+
+6.2 Quién puede acceder
+    - Según el impreso de matrícula del curso 2025-2026: tener 18 años o
+      cumplirlos en el año natural (2025 en ese impreso). Para 2026-2027 no se
+      pudo ver el impreso; confirmar con el centro.
+      https://portal.edu.gva.es/epamanises/wp-content/uploads/sites/151/2025/09/Matr-25-c-v2.pdf
+    - Requisitos específicos de cada curso: NO LOCALIZADOS.
+
+6.3 Matrícula y coste
+    - El centro tiene una sección "Matrícula 2026/27" con instrucciones y una
+      "Oferta formativa 2026-2027" en su web, pero NO se pudieron leer: la web
+      impide la lectura automática y los resultados de búsqueda no mostraron las
+      fechas. Consultar https://portal.edu.gva.es/epamanises/ o llamar al
+      961 20 69 10.
+    - Inicio de clases en Formación de Personas Adultas: 14 de septiembre de 2026
+      (calendario autonómico, apartado 1.1).
+    - Coste de matrícula: NO LOCALIZADO. No afirmar que sea gratuito.
+    - Horarios del curso 2025-2026 (referencia, pueden haber cambiado): ESPA 3 y
+      4 y A25 son de tarde/noche; los cursos de idiomas e informática tienen
+      grupos de tarde y noche (ver el PDF de oferta citado).
+
+--------------------------------------------------------------------------------
+7. FORMACIÓN NO REGLADA MUNICIPAL: TALLERES DE TIEMPO LIBRE (CULTURA)
+--------------------------------------------------------------------------------
+Organiza: Concejalía de Cultura del Ayuntamiento de Manises.
+- Información: https://www.manises.es/es/cultura/pagina/talleres-tiempo-libre
+- Contacto: cultura@manises.es. Tel. 96 153 43 10, ext. 8004 [A].
+  (https://manises.sedipualba.es/carpetaciudadana/tramite.aspx?idtramite=10471)
+- La página municipal publica la oferta y la solicitud de plaza. Los datos
+  que se pudieron consultar son del curso 2025-2026; la oferta 2026-2027 NO se
+  localizó (apartado 13).
+
+7.1 Talleres listados en la sede electrónica (curso 2025-2026) [A]
+    Costura, Pintura y dibujo, Patchwork, Batería, Guitarra eléctrica y bajo,
+    Dolçaina, Tabal, Guitarra española, Cerámica infantil, Cerámica adultos,
+    Informática nivel básico, Informática nivel medio.
+    El festival de fin de curso 2025-2026 mostró también danza contemporánea,
+    hip hop, danzas populares y teatro:
+    https://www.manises.es/es/pagina/festival-talleres-tiempo-libre-2025-26
+    Lista: https://manises.sedipualba.es/carpetaciudadana/tramite.aspx?idtramite=10472
+
+7.2 Quién puede apuntarse [A]
+    - Cualquier persona física, residente o no en Manises, que cumpla los
+      requisitos de cada disciplina publicados en la oferta del curso.
+
+7.3 Cómo y cuándo (procedimiento del curso 2025-2026)
+    - Primero hay que solicitar plaza a través de la información de la página de
+      talleres; después se hace la matrícula (trámite CUL0001).
+    - Plazo de ese trámite en 2025-2026: del 1 de julio de 2025 al 31 de mayo de
+      2026.
+    - Vías: sede electrónica (manises.sedipualba.es) o presencial en el
+      Registro General (OAC, plaza del Castell) con cita previa.
+    - Para el curso 2026-2027 el plazo NO se localizó.
+
+7.4 Pago y condiciones [A]
+    - La matrícula de cada taller se paga mediante autoliquidación y no se
+      devuelve, salvo anulación del taller por el Ayuntamiento.
+    - Las mensualidades se cobran por domiciliación bancaria en los primeros
+      días de cada mes.
+    - La matrícula exige estar al corriente de los recibos pendientes del curso
+      anterior.
+    - El Ayuntamiento puede anular talleres que no alcancen un mínimo de
+      alumnado y puede modificar ubicación, días y horarios.
+    - Bajas: de octubre a mayo, hasta el día 20 de cada mes; efectivas el día 1
+      del mes siguiente (trámite CUL0000).
+    - Precios: regulados por la "Ordenanza reguladora de los precios públicos por
+      prestación de servicios y utilización de instalaciones de cultura y
+      juventud". Importes NO LOCALIZADOS.
+    Fuente: https://manises.sedipualba.es/segex/tramite.aspx?idtramite=10472
+
+7.5 Servicios de verano para familias (Educación) [B]
+    - Escoleta de Verano (alumnado de Infantil) y Campamento Urbano (Primaria)
+      organizados cada verano por el departamento de Educación. En la edición que
+      recoge la noticia, la escoleta fue del 23 de junio al 25 de julio.
+    - Fecha del artículo no confirmada; no usar sus cifras como actuales.
+      https://www.elperiodic.com/manises/centenares-familias-podido-conciliar-durante-junio-julio-gracias-campamento-urbano-escoleta-verano-municipales_1029926
+
+--------------------------------------------------------------------------------
+8. FORMACIÓN PARA EL EMPLEO, ORIENTACIÓN Y TALLERES DE EMPLEO
+--------------------------------------------------------------------------------
+8.1 Centre de Promoció i Desenvolupament Municipal (Ayuntamiento) [A]
+    - Dirección: C/ Valencia, 22 (junto al edificio de la Policía Local).
+    - Teléfonos: 96 152 46 32 y 96 152 49 79. Email: promocio@manises.es
+    - Servicios: orientación laboral y formativa (reglada y no reglada),
+      itinerarios formativos, taller de búsqueda de empleo por internet (9 h),
+      espacio de autoinformación con ofertas de empleo y cursos, Agencia
+      Municipal de Colocación.
+    - Cómo acceder: solicitar cita previa (961524632 o promocio@manises.es).
+    Fuentes: https://www.manises.es/es/promocio-economica-ocupacio/pagina/servicio-orientacion-para-empleo
+             https://www.manises.es/es/migracio/pagina/formacion-e-integracion-laboral
+             https://www.manises.es/es/promocio-economica-ocupacio/pagina/bolsa-trabajo
+
+8.2 Agencia Municipal de Colocación [A]
+    - Portal: https://empleo.manises.es/ (inscripción como demandante y ofertas).
+    - En la consulta de mayo de 2026 la sección de cursos indicaba que no había
+      cursos disponibles en ese momento. No asumir que haya cursos abiertos.
+
+8.3 Programas mixtos de empleo y formación [A/B]
+    - Taller de Empleo "Manises Accesible II", con LABORA, anunciado el 15 de
+      abril de 2026. Va dirigido a personas desempleadas (el Ayuntamiento indica
+      "mayores de 16 años"). Combina formación y trabajo en mejora del entorno
+      urbano (aceras, parques y jardines, recogida selectiva).
+      https://www.manises.es/es/noticia/ayuntamiento-manises-pone-marcha-taller-ocupacion-manises-accesible-ii
+    - Descripción general de talleres de empleo (mayores de 25 años, 1 año) y
+      escuelas taller (menores de 25, 2 años), cofinanciados con el SERVEF
+      (denominación antigua de LABORA). El texto es antiguo; consultar el
+      Centre de Promoció para convocatorias actuales:
+      https://www.manises.es/es/taxonomy/term/1053?page=6
+
+8.4 LABORA (Servicio Público de Empleo y Formación de la Comunitat Valenciana)
+    - Teléfono: 012 (o 96 386 60 00 desde fuera de la Comunitat) [A]:
+      https://labora.gva.es/es/telefonos-y-direcciones
+    - Web: https://labora.gva.es/ . Información sobre formación y cursos:
+      https://labora.gva.es/va/ciutadania/busque-formacio/general
+    - Oficina en Manises (Espai LABORA): C/ Pedralba, 7, 46940 Manises [B,
+      dato de un portal de terceros; verificar]:
+      https://loentiendo.com/cita-previa-inem-manises/
+    - Se pide cita previa a través de LABORA (web o app "Punt LABORA").
+    - Pagos de prestaciones: SEPE, no LABORA.
+    - La oferta concreta de cursos gratuitos para personas desempleadas en
+      Manises NO se pudo consultar en este estudio (el buscador de cursos es
+      dinámico). Remitir a https://puntlabora.gva.es/ofsrvfor/consultar?lang=ca
+
+--------------------------------------------------------------------------------
+9. AYUDAS MUNICIPALES AL TRANSPORTE DE ESTUDIANTES [B]
+--------------------------------------------------------------------------------
+- Convocatoria del Ayuntamiento para el curso 2025-2026 (noticia de junio de
+  2026): 90.000 euros; máximo 149,90 euros por estudiante.
+- Dirigida a estudiantes empadronados en Manises de universidad, enseñanzas
+  artísticas superiores, FP Básica y ciclos de grado medio y superior, que deban
+  desplazarse fuera del municipio porque sus estudios no se imparten en Manises o
+  no obtuvieron plaza en la oferta existente. Trámite también presencial en la OAC.
+- La convocatoria 2026-2027 NO se localizó.
+  https://valenciaplaza.com/valenciaplaza/comarca-y-empresa/manises-destina-90000-euros-a-ayudas-de-transporte-para-estudiantes-del-curso-2025-2026
+  https://www.elperiodic.com/val/manises/manises-destina-90000-euros-ajudes-transport-estudiants-curs-2025-2026_1081032
+
+--------------------------------------------------------------------------------
+10. RESUMEN RÁPIDO DE CENTROS (DIRECCIONES Y TELÉFONOS)
+--------------------------------------------------------------------------------
+EIM La Tarara ........ C/ Paterna 12 ................ 96 154 67 18
+EIM Gesmil ........... C/ Trinquet 5 ................ 96 152 07 09
+EIM La Pinadeta ...... Av. dels Esports s/n .......... 96 108 30 29
+EI Príncipe Valiente . C/ Francisco Castelló Gil 10 .. 96 120 52 00 (verificar)
+CEIP Enric Valor ..... C/ Ceramista Alfonso Blat 26 . 961 20 52 90
+CEIP García Planells . C/ Velázquez 2 .............. 961 20 53 30
+CEIP Nicolau Balaguer  C/ Francisco Valldecabres 8 . 961 20 51 00
+CEIP Benjamín Benlloch C/ Teruel 2B ................ 961 20 52 40
+CEIP Félix Rodríguez . C/ Teruel 2 ................. 962 56 69 50
+CEIP Joan Fuster ..... Av. Generalitat Valenciana 48 962 56 69 70
+Colegio Sagrada Familia C/ Teruel 3 ................ 96 154 68 11
+Colegio El Carmen .... C/ Valencia 37B ............. 96 154 69 37
+IES Ausiàs March ..... C/ Teruel 4 ................. 961 20 62 75
+IES Rodrigo Botet .... C/ Santos Justo y Pastor 70 . 961 20 60 40
+IES Pere Boïl ........ C/ Ceramista Alfons Blat 12/20 961 20 62 25
+EASC (Cerámica) ..... C/ Ceramista Alfons Blat 22 .. teléfono no localizado
+CFPA Menicil ......... C/ Sants Just i Pastor 70 ... 961 20 69 10
+Centre de Promoció ... C/ Valencia 22 .............. 96 152 46 32 / 96 152 49 79
+Cultura (talleres) ... Ayuntamiento ................. 96 153 43 10, ext. 8004
+
+--------------------------------------------------------------------------------
+11. EJEMPLOS DE RESPUESTA CORRECTA
+--------------------------------------------------------------------------------
+Pregunta: "¿Cuándo me apunto a una escuela infantil municipal?"
+Respuesta modelo: "Las escuelas infantiles municipales son La Tarara, Gesmil y
+La Pinadeta. En el curso 2025-2026 la solicitud se pudo presentar del 14 de abril
+al 11 de mayo de 2025 y la matrícula de los admitidos del 2 al 18 de junio. El
+calendario del curso que te interesa se publica en la página de escuelas
+infantiles del Ayuntamiento. Para confirmarlo, llama a la escuela
+correspondiente (ver teléfonos) o consulta
+https://www.manises.es/es/educacio/pagina/escuelas-infantiles-municipales."
+
+Pregunta: "¿Cuánto cuesta el taller de guitarra?"
+Respuesta modelo: "No dispongo del precio actual. Los precios se fijan en la
+ordenanza municipal de precios públicos de cultura y juventud. Contacta con
+Cultura (cultura@manises.es, 96 153 43 10, ext. 8004)."
+
+--------------------------------------------------------------------------------
+12. DISCREPANCIAS ENTRE FUENTES (RESOLVER CON EL CENTRO)
+--------------------------------------------------------------------------------
+12.1 IES Pere Boïl: dirección "C/ Ceramista Alfons Blat, 12" (registro de la
+     Generalitat y web del centro) frente a "nº 20" (domicilio social en la web
+     del centro y listado municipal). El Ayuntamiento cita el código/mail
+     46020421, mientras que el registro de la Generalitat y la web del centro
+     usan 46017535. Se ofrecen ambos datos; el código 46017535 aparece en el
+     registro de la Generalitat.
+12.2 Plazo de solicitud de Bachillerato 2026-2027: un aviso de un CEIP de otra
+     localidad indica "del 21 de mayo al 21 de junio" para ESO y Bachillerato,
+     mientras que el portal que reproduce la resolución indica para ESO del 21 de
+     mayo al 1 de junio. No se ha confirmado el plazo de Bachillerato.
+12.3 Colegio El Carmen: la web municipal ofrece dos denominaciones y dos juegos
+     de contacto (Colegio El Carmen y Centro Trilema El Carmen).
+12.4 IES Ausiàs March: un portal de terceros ofrece un teléfono distinto del
+     oficial del Ayuntamiento (se usa el del Ayuntamiento).
+12.5 EI Príncipe Valiente: teléfono de la web municipal posiblemente antiguo.
+
+--------------------------------------------------------------------------------
+13. DATOS NO LOCALIZADOS O PENDIENTES DE VERIFICAR (NO PRESENTAR COMO HECHOS)
+--------------------------------------------------------------------------------
+13.1 Calendario de admisión 2026-2027 de las Escuelas Infantiles Municipales y
+     sus tasas (la página existe, pero no se pudo leer; la web municipal bloquea
+     la lectura automática).
+13.2 Oferta, precios y plazos de los talleres de Cultura del curso 2026-2027.
+13.3 Matrícula 2026/27 y oferta 2026-2027 del CFPA Menicil (páginas existentes
+     pero no legibles); coste de matrícula; requisitos por curso; email.
+13.4 Teléfono y correo de la EASC; oferta y plazos de admisión vigentes.
+13.5 Lista completa y verificada de ciclos formativos de cada instituto.
+13.6 Cuotas de los colegios concertados.
+13.7 Escuela de música, conservatorio, escuela de idiomas oficial o universidad
+     en el propio municipio: no se localizó información fiable.
+13.8 Oferta de academias privadas y centros de formación homologados por LABORA
+     en Manises: no verificada. Un directorio cita una academia "Tevian S.L.",
+     C/ Aviación 15, tel. 963 85 33 05 (sin confirmar su oferta):
+     https://www.nomas900.org/tevian-s-l-manises-1293487
+13.9 Formación impartida por empresas del municipio: no localizada.
+13.10 Calendarios de admisión del curso 2027-2028: no localizados.
+13.11 Educación Especial y atención a necesidades específicas: no investigado.
+13.12 Fiabilidad: gran parte de la información municipal procede de resultados
+     de búsqueda de las páginas del Ayuntamiento, cuyo sitio impide la descarga
+     automática. Conviene que una persona compruebe esas páginas.
+
+--------------------------------------------------------------------------------
+14. ENLACES CLAVE PARA REMITIR A LA PERSONA USUARIA
+--------------------------------------------------------------------------------
+- Admisión escolar (Infantil, Primaria, ESO, Bachillerato, FP): https://portal.edu.gva.es/adminova/
+- Admisión FP (información): https://ceice.gva.es/es/web/formacion-profesional/admissio
+- Educación en el Ayuntamiento de Manises:
+  https://www.manises.es/es/taxonomy/term/1127?page=0
+- Escuelas infantiles municipales:
+  https://www.manises.es/es/educacio/pagina/escuelas-infantiles-municipales
+- Talleres de tiempo libre (Cultura):
+  https://www.manises.es/es/cultura/pagina/talleres-tiempo-libre
+- Sede electrónica del Ayuntamiento: https://manises.sedipualba.es/
+- Promoción Económica y Ocupación: https://www.manises.es/es/promocio-economica-ocupacio/pagina/servicio-orientacion-para-empleo
+- Agencia Municipal de Colocación: https://empleo.manises.es/
+- CFPA Menicil: https://portal.edu.gva.es/epamanises/
+- LABORA: https://labora.gva.es/
+- Cursos LABORA: https://puntlabora.gva.es/ofsrvfor/consultar?lang=ca
+
+================================================================================
+FIN DEL DOCUMENTO
+================================================================================
+
