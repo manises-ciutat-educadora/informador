@@ -1,5 +1,5 @@
 /* Service Worker — Informador de Manises (PWA offline) */
-const CACHE = "informador-manises-v1";
+const CACHE = "informador-manises-v2";
 const ESTÀTICS = [
   "./", "./index.html", "./styles.css", "./app.js", "./manifest.json",
   "./iconos/icon-192.png", "./iconos/icon-512.png", "./iconos/icon-maskable-512.png",
@@ -26,14 +26,11 @@ self.addEventListener("fetch", (e) => {
     e.respondWith(fetch(e.request).catch(() => caches.match("./index.html")));
     return;
   }
-  // Resta: caché primer, actualitza en segon pla
+  // Resta (JS/CSS/imatges): XARXA PRIMER (mai codi antic), caché només si no hi ha connexió
   e.respondWith(
-    caches.match(e.request).then(c => {
-      const f = fetch(e.request).then(r => {
-        if (r.ok){ const copia = r.clone(); caches.open(CACHE).then(cache => cache.put(e.request, copia)); }
-        return r;
-      }).catch(() => c);
-      return c || f;
-    })
+    fetch(e.request).then(r => {
+      if (r.ok){ const copia = r.clone(); caches.open(CACHE).then(cache => cache.put(e.request, copia)); }
+      return r;
+    }).catch(() => caches.match(e.request))
   );
 });
