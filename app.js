@@ -13,6 +13,7 @@ const API_URL = "https://informador-manises.<el-teu-subdomini>.workers.dev/api/c
 /* ---------- Idiomes ---------- */
 const I18N = {
   ca:{nom:"Valencià",  nomAuto:"Valencià",   bcp:"ca", bcpVeu:"ca",
+      lema:"L'oferta formativa del poble en 14 llengües — perquè la formació permanent és un dret.",
       benvinguda:"Soc l'Informador de Manises, Ciutat Educadora.🎓\nPregunta'm sobre l'oferta formativa del poble: escoles infantils, col·legis, instituts, formació de persones adultes, tallers, beques, ajudes al transport… Escriu o usa el botó de veu.",
       ph:"Escriu la teua pregunta…", envia:"Envia", micro:"Dicta amb veu",
       escolta:"Escolta", para:"Atura", pensant:"Pensant…",
@@ -20,6 +21,7 @@ const I18N = {
       instal:"Instal·lar app", fontMenys:"Reduir la lletra", fontMes:"Augmentar la lletra", fontReset:"Lletra normal",
       escoltant:"T'escolte… parla ara", cues:"Pregunta guardada per a enviar més tard"},
   es:{nom:"Español",   nomAuto:"Español",    bcp:"es", bcpVeu:"es",
+      lema:"La oferta formativa del pueblo en 14 lenguas — porque la formación permanente es un derecho.",
       benvinguda:"Soy el Informador de Manises, Ciutat Educadora.🎓\nPregúntame sobre la oferta formativa del pueblo: escuelas infantiles, colegios, institutos, formación de adultos, talleres, becas, ayudas al transporte… Escribe o usa el botón de voz.",
       ph:"Escribe tu pregunta…", envia:"Envía", micro:"Dicta por voz",
       escolta:"Escuchar", para:"Parar", pensant:"Pensando…",
@@ -27,6 +29,7 @@ const I18N = {
       instal:"Instalar app", fontMenys:"Reducir la letra", fontMes:"Ampliar la letra", fontReset:"Letra normal",
       escoltant:"Te escucho… habla ahora", cues:"Pregunta guardada para enviar más tarde"},
   en:{nom:"English",   nomAuto:"English",    bcp:"en", bcpVeu:"en-US",
+      lema:"The town's education offer in 14 languages — because lifelong learning is a right.",
       benvinguda:"I am the Manises Informer, Educating City.🎓\nAsk me about the town's education offer: nursery schools, primary schools, secondary schools, adult education, workshops, grants, transport aid… Type or use the voice button.",
       ph:"Type your question…", envia:"Send", micro:"Dictate by voice",
       escolta:"Listen", para:"Stop", pensant:"Thinking…",
@@ -34,6 +37,7 @@ const I18N = {
       instal:"Install app", fontMenys:"Smaller text", fontMes:"Larger text", fontReset:"Normal text",
       escoltant:"Listening… speak now", cues:"Question saved to send later"},
   fr:{nom:"Français",  nomAuto:"Français",   bcp:"fr", bcpVeu:"fr-FR",
+      lema:"L'offre de formation de la ville en 14 langues — car la formation tout au long de la vie est un droit.",
       benvinguda:"Je suis l'Informateur de Manises, Cité Éducatrice.🎓\nPosez-moi vos questions sur l'offre de formation de la ville : écoles maternelles, écoles primaires, lycées, formation des adultes, ateliers, bourses, aides au transport… Écrivez ou utilisez le bouton vocal.",
       ph:"Écrivez votre question…", envia:"Envoyer", micro:"Dicter à voix haute",
       escolta:"Écouter", para:"Arrêter", pensant:"Réflexion…",
@@ -41,6 +45,7 @@ const I18N = {
       instal:"Installer l'app", fontMenys:"Réduire le texte", fontMes:"Agrandir le texte", fontReset:"Texte normal",
       escoltant:"Je vous écoute… parlez", cues:"Question enregistrée pour envoi ultérieur"},
   ar:{nom:"العربية",   nomAuto:"العربية",     bcp:"ar", bcpVeu:"ar",
+      lema:"العرض التعليمي للمدينة بـ 14 لغة — لأن التعلّم مدى الحياة حقٌّ من الحقوق.",
       benvinguda:"أنا المُعلِم الرقمي لمدينة مانيسس، المدينة المتعلِّمة.🎓\nاسألني عن العرض التعليمي للمدينة: رياض الأطفال، المدارس الابتدائية، الثانويات، تعليم الكبار، الورشات، المنح، مساعدات النقل… اكتب أو استخدم زر الصوت.",
       ph:"اكتب سؤالك…", envia:"إرسال", micro:"تحدث بالصوت",
       escolta:"استمع", para:"إيقاف", pensant:"أفكر…",
@@ -48,6 +53,7 @@ const I18N = {
       instal:"تثبيت التطبيق", fontMenys:"تصغير الخط", fontMes:"تكبير الخط", fontReset:"خط عادي",
       escoltant:"أسمعك… تكلّم الآن", cues:"تم حفظ السؤال لإرساله لاحقًا"},
   ro:{nom:"Română",   nomAuto:"Română",     bcp:"ro", bcpVeu:"ro-RO",
+      lema:"Oferta educațională a orașului în 14 limbi — pentru că învățarea pe tot parcursul vieții este un drept.",
       benvinguda:"Sunt Informatorul din Manises, Oraș Educator.🎓\nÎntreabă-mă despre oferta educațională a orașului: grădinițe, școli primare, licee, educația adulților, ateliere, burse, ajutoare pentru transport… Scrie sau folosește butonul vocal.",
       ph:"Scrie întrebarea ta…", envia:"Trimite", micro:"Dictează vocal",
       escolta:"Ascultă", para:"Oprește", pensant:"Mă gândesc…",
@@ -55,6 +61,7 @@ const I18N = {
       instal:"Instalează aplicația", fontMenys:"Micșorează textul", fontMes:"Mărește textul", fontReset:"Text normal",
       escoltant:"Te ascult… vorbește acum", cues:"Întrebare salvată pentru trimitere ulterioară"},
   uk:{nom:"Українська",nomAuto:"Українська", bcp:"uk", bcpVeu:"uk-UA",
+      lema:"Освітня пропозиція міста 14 мовами — бо навчання протягом усього життя є правом.",
       benvinguda:"Я Інформатор Манісеса, Місто Освіти.🎓\nПитайте про освітню пропозицію міста: дитячі садки, початкові школи, ліцеї, освіта дорослих, гуртки, стипендії, допомога на транспорт… Пишіть або скористайтеся кнопкою голосу.",
       ph:"Напишіть своє запитання…", envia:"Надіслати", micro:"Диктувати голосом",
       escolta:"Слухати", para:"Зупинити", pensant:"Думаю…",
@@ -62,6 +69,7 @@ const I18N = {
       instal:"Встановити застосунок", fontMenys:"Зменшити шрифт", fontMes:"Збільшити шрифт", fontReset:"Звичайний шрифт",
       escoltant:"Слухаю… говоріть", cues:"Запитання збережено для подальшого надсилання"},
   ru:{nom:"Русский",  nomAuto:"Русский",    bcp:"ru", bcpVeu:"ru-RU",
+      lema:"Образовательное предложение города на 14 языках — ведь обучение в течение жизни — это право.",
       benvinguda:"Я Информатор Манисеса, Город Образования.🎓\nСпросите меня об образовательных предложениях города: детские сады, начальные школы, лицеи, образование для взрослых, кружки, стипендии, помощь на транспорт… Пишите или используйте голосовую кнопку.",
       ph:"Напишите ваш вопрос…", envia:"Отправить", micro:"Диктовать голосом",
       escolta:"Слушать", para:"Стоп", pensant:"Думаю…",
@@ -69,6 +77,7 @@ const I18N = {
       instal:"Установить приложение", fontMenys:"Уменьшить шрифт", fontMes:"Увеличить шрифт", fontReset:"Обычный шрифт",
       escoltant:"Слушаю… говорите", cues:"Вопрос сохранён для отправки позже"},
   zh:{nom:"中文",     nomAuto:"中文",       bcp:"zh", bcpVeu:"zh-CN",
+      lema:"全镇教育资讯，14种语言——因为终身学习是一项权利。",
       benvinguda:"我是马尼塞斯教育之城的信息员。🎓\n请向我询问本镇的教育资讯：幼儿园、小学、中学、成人教育、培训班、助学金、交通补助……您可以打字，也可以使用语音按钮。",
       ph:"请输入您的问题……", envia:"发送", micro:"语音输入",
       escolta:"朗读", para:"停止", pensant:"正在思考……",
@@ -76,6 +85,7 @@ const I18N = {
       instal:"安装应用", fontMenys:"缩小字体", fontMes:"放大字体", fontReset:"正常字体",
       escoltant:"正在聆听……请讲话", cues:"问题已保存，稍后发送"},
   it:{nom:"Italiano", nomAuto:"Italiano",   bcp:"it", bcpVeu:"it-IT",
+      lema:"L'offerta formativa del paese in 14 lingue — perché l'apprendimento permanente è un diritto.",
       benvinguda:"Sono l'Informatore di Manises, Città Educante.🎓\nChiedimi dell'offerta formativa del paese: scuole dell'infanzia, scuole primarie, istituti, formazione degli adulti, laboratori, borse di studio, aiuti per il trasporto… Scrivi o usa il pulsante vocale.",
       ph:"Scrivi la tua domanda…", envia:"Invia", micro:"Dettatura vocale",
       escolta:"Ascolta", para:"Ferma", pensant:"Sto pensando…",
@@ -83,6 +93,7 @@ const I18N = {
       instal:"Installa l'app", fontMenys:"Riduci il testo", fontMes:"Ingrandisci il testo", fontReset:"Testo normale",
       escoltant:"Ti ascolto… parla ora", cues:"Domanda salvata per l'invio successivo"},
   pt:{nom:"Português",nomAuto:"Português",  bcp:"pt", bcpVeu:"pt-PT",
+      lema:"A oferta formativa da vila em 14 línguas — porque a formação ao longo da vida é um direito.",
       benvinguda:"Sou o Informador de Manises, Cidade Educadora.🎓\nPergunte-me sobre a oferta formativa da vila: escolas infantis, escolas primárias, institutos, formação de adultos, oficinas, bolsas, apoios ao transporte… Escreva ou use o botão de voz.",
       ph:"Escreva a sua pergunta…", envia:"Enviar", micro:"Ditar por voz",
       escolta:"Ouvir", para:"Parar", pensant:"A pensar…",
@@ -90,6 +101,7 @@ const I18N = {
       instal:"Instalar a app", fontMenys:"Reduzir o texto", fontMes:"Ampliar o texto", fontReset:"Texto normal",
       escoltant:"Estou a ouvir… fale agora", cues:"Pergunta guardada para envio posterior"},
   zgh:{nom:"ⵜⴰⵎⴰⵣⵖⴰ", nomAuto:"Tamazight", bcp:"zgh", bcpVeu:"fr-FR",
+      lema:"Aselmed n temdint s 14 n tutlayin — acku aselmed n yal tallit d izerf.",
       benvinguda:"Nekk Informador n Manises, Tamdint Educadora.🎓\nSser-d ayen tebɣiḍ ad tissineḍ ɣef uselmed deg Manises: isalan n warrac, isalan, isaffen, aselmed n yimɣaren, ateliers, tawsa… Aru neɣ seqdec taqeffalt n uɣer.",
       ph:"Aru aseqqiṛ-ik…", envia:"Azen", micro:"Meslay s uɣer",
       escolta:"Sel", para:"Seḥbes", pensant:"Xedmeɣ…",
@@ -97,6 +109,7 @@ const I18N = {
       instal:"Sader asnas", fontMenys:"Senneẓ asekkil", fontMes:"Ssemɣer asekkil", fontReset:"Asekkil amagnu",
       escoltant:"Kkaɣ ilelli… meslay", cues:"Aseqqiṛ yettwakles i wazen"},
   bm:{nom:"Bamanankan",nomAuto:"Bamanankan",bcp:"bm", bcpVeu:"fr-FR",
+      lema:"Manises ka kalan ɲɛnabɔ kan 14 la — sabu kalan kɛtɔtɔw ye hakɛ ye.",
       benvinguda:"Ne ye Manises Informateur ye, Dugu Educateur.🎓\nI bɛ se ka ɲinini kɛ n na Manises kalan ko kan: misoɲɛnɛw, tilebinyanaw, lise, kalan gundo, ateliers, tawsa… A bɛ se ka sɛbɛn walima ka kɛ ɲɛgɛn fɛ.",
       ph:"Sɛbɛn i ka ɲinini…", envia:"Ci", micro:"Kɛ ɲɛgɛn fɛ",
       escolta:"Mɛnni", para:"Jɔ", pensant:"N bɛ ɲini…",
@@ -104,6 +117,7 @@ const I18N = {
       instal:"App don", fontMenys:"Kɛtɛ lɛtɛri", fontMes:"Lɛtɛri bonya", fontReset:"Lɛtɛri ɲɔgɔn",
       escoltant:"N bɛ mɛnni i la… kuma", cues:"ɲinini datugu don ci la"},
   wo:{nom:"Wolof",    nomAuto:"Wolof",      bcp:"wo", bcpVeu:"fr-FR",
+      lema:"Jëmmu jàngale gi Manises 14 làkk — ndax jàngale bu bés bépp dafa sañ-sañ.",
       benvinguda:"Man maa ngi nekk Ki këy yi Manises, Dëkk bu xam-xamu.🎓\nLaaj ma ci jëmm yi ci biir Manises: ndefarug xale yi, penc yi, ëkk bi, jàngale gi góor, ateliers, tontu yi… Bind walla jëfandikul bóton wi.",
       ph:"Bind laaj bi…", envia:"Yónnee", micro:"Wax ci gëm",
       escolta:"Dégg", para:"Togg", pensant:"Dama xalaat…",
@@ -175,6 +189,7 @@ function aplicarIdioma(refresca){
   const d = t();
   document.documentElement.lang = d.bcp;
   document.documentElement.dir = (d.bcp === "ar") ? "rtl" : "ltr";
+  $("lema").textContent = d.lema;
   entrada.placeholder = d.ph;
   entrada.setAttribute("aria-label", d.ph);
   $("enviar").title = d.envia; $("enviar").setAttribute("aria-label", d.envia);
