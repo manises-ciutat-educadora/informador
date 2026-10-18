@@ -119,6 +119,13 @@ const MARGE_FONT = [90, 100, 112, 125, 140];           // percentatges de mida d
 let nivellFont = parseInt(localStorage.getItem("informador-font") || "1", 10);
 if (isNaN(nivellFont)) nivellFont = 1;
 let reconeixement = null, escoltant = false;
+/* Sessió estable: identifica el diàleg sencer a Supabase */
+let sessio = localStorage.getItem("informador-sessio");
+if (!sessio) {
+  sessio = (crypto.randomUUID) ? crypto.randomUUID()
+          : "s-" + Date.now() + "-" + Math.random().toString(36).slice(2, 10);
+  localStorage.setItem("informador-sessio", sessio);
+}
 
 const $ = (id) => document.getElementById(id);
 const xat = $("xat"), entrada = $("entrada"), estat = $("estat");
@@ -228,7 +235,8 @@ function envia(){
     idioma: lang,
     dia: ara.toLocaleDateString(t().bcp),      // Dia
     hora: ara.toLocaleTimeString(t().bcp),     // Hora
-    iso: ara.toISOString()
+    iso: ara.toISOString(),
+    sesion: sessio
   };
   fetch(API_URL, {
     method: "POST",
