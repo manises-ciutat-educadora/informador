@@ -79,7 +79,7 @@ Idioma del documento: español.
         municipal de otra ciudad, pero cita la norma autonómica)
       https://portal.edu.gva.es/ceipsanroquealicante/wp-content/uploads/sites/1020/2026/03/Anexo-I_Calendario-admision-Infantil-y-Primaria_FASE-ORDINARIA.pdf
       Página del Ayuntamiento de Manises sobre admisión 2026-2027:
-      https://www.manises.es/es/taxonomy/term/1127?page=0
+      https://www.manises.es/
 
 1.3 Admisión en Formación Profesional (curso 2026-2027)
     - Solicitud solo online en Adminova: https://portal.edu.gva.es/adminova/
@@ -538,7 +538,7 @@ Cultura (cultura@manises.es, 96 153 43 10, ext. 8004)."
 - Admisión escolar (Infantil, Primaria, ESO, Bachillerato, FP): https://portal.edu.gva.es/adminova/
 - Admisión FP (información): https://ceice.gva.es/es/web/formacion-profesional/admissio
 - Educación en el Ayuntamiento de Manises:
-  https://www.manises.es/es/taxonomy/term/1127?page=0
+  https://www.manises.es/
 - Escuelas infantiles municipales:
   https://www.manises.es/es/educacio/pagina/escuelas-infantiles-municipales
 - Talleres de tiempo libre (Cultura):
@@ -553,4 +553,3 @@ Cultura (cultura@manises.es, 96 153 43 10, ext. 8004)."
 ================================================================================
 FIN DEL DOCUMENTO
 ================================================================================
-
