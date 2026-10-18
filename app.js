@@ -7,7 +7,7 @@
    ============================================================ */
 
 /* >>> CONFIGURA AQUÍ l'URL del Worker de Cloudflare <<< */
-const API_URL = "https://informador-manises.<el-teu-subdomini>.workers.dev/api/chat";
+const API_URL = "https://informador-manises.francesc-j-hernandez.workers.dev/api/chat";
 /* En local (wrangler dev) pots provar: http://127.0.0.1:8787/api/chat */
 
 /* ---------- Idiomes ---------- */
