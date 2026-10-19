@@ -111,6 +111,9 @@ main{flex:1; width:min(880px,100%); margin:0 auto; padding:1rem clamp(.8rem,3vw,
   padding:1rem clamp(1rem,4vw,2.5rem) 1.4rem; font-size:.85em; color:var(--gris);
   border-top:1px solid #d5e2f0; background:#fbfdff; text-align:center;
 }
+.peu a{color:var(--azul); font-weight:700; text-decoration:underline;}
+.peu a:hover{color:var(--azul-osc);}
+.avis-email{margin:0 0 .35rem; font-size:1.02em;}
 
 @media (max-width:560px){
   .missatge{max-width:94%;}
