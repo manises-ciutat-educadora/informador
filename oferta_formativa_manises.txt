@@ -2,6 +2,9 @@
 OFERTA FORMATIVA DE MANISES (VALENCIA) - BASE DE CONOCIMIENTO PARA AGENTE IA
 ================================================================================
 Fecha de recopilación: 18 de octubre de 2026 (curso escolar en vigor: 2026-2027)
+Ampliación: 7 de noviembre de 2026. Se incorporan noticias educativas del blog
+del grupo municipal de gobierno APM-Compromís de Manises (fuente [D]),
+fechadas entre septiembre de 2025 y junio de 2026. Véase la nota 0.2.
 Código postal de Manises: 46940. Provincia: València. Comunitat Valenciana.
 Idioma del documento: español.
 
@@ -17,6 +20,11 @@ Idioma del documento: español.
           del propio centro.
       [B] Fuente secundaria: prensa, directorios o portales de terceros.
       [C] Sin contrastar o con discrepancias entre fuentes.
+      [D] Fuente de parte: comunicados del grupo municipal de gobierno
+          (blog APM-Compromís Manises, compromis.net). Datos útiles pero
+          emitidos por un partido político; cuando sea posible, contrastar
+          con el Ayuntamiento (www.manises.es), la sede electrónica
+          (manises.sedipualba.es) o la Conselleria d'Educació.
 0.3 Los calendarios de admisión y matrícula citados corresponden al curso
     2026-2027 y sirven solo como REFERENCIA. No se localizaron los calendarios
     del curso 2027-2028. Para solicitar plaza hay que consultar siempre las
@@ -29,6 +37,17 @@ Idioma del documento: español.
     recomienda confirmar con el centro. No des garantías.
 0.5 Los teléfonos de Manises tienen 9 dígitos y empiezan por 96. En este
     documento aparecen con y sin espacios; son equivalentes.
+0.6 CONTEXTO INSTITUCIONAL (actualizado el 25-06-2026) [D]
+    - Alcalde: Jesús Borràs, desde el 25 de junio de 2026 (releva a Javier
+      Mansilla, en cumplimiento del acuerdo de gobierno PSPV-PSOE /
+      APM-Compromís / Podem para el mandato 2023-2027).
+    - Regidora de Educación e Infancia: Carmen Moreno (continúa tras la
+      reorganización de junio de 2026).
+    - Regidor de Cultura y Promoción de la Cerámica y Museos: Xavier Morant.
+    - Contactos del área de Educación publicados en notas municipales:
+      educacion@manises.es (educación, p. ej. ayudas de transporte) e
+      infancia@manises.es (infancia, p. ej. actividades de la Setmana de la
+      Infància). Fuente [D].
 
 --------------------------------------------------------------------------------
 1. CALENDARIO ESCOLAR Y PROCESO DE ADMISIÓN (REFERENCIA CURSO 2026-2027)
@@ -72,7 +91,7 @@ Idioma del documento: español.
       * ESO: del 17 al 20 de julio de 2026.
     Formalización de matrícula (Infantil y Primaria, fase ordinaria): del 18 de
     junio al 2 de julio de 2026.
-    BACHILLERATO: NO se confirmó un plazo (ver discrepancia en el apartado 12).
+    BACHILLERATO: NO se confirmó un plazo (ver discrepancia en el apartado 13).
     Fuentes [A]/[B]:
       https://www.alicante.es/es/tramites/matriculacion-escolar-curso-2026-2027
         (reproduce las fechas de la Resolución de 25/02/2026; es un portal
@@ -95,11 +114,29 @@ Idioma del documento: español.
       (DOGV 2026/12081):
       https://dogv.gva.es/datos/2026/04/27/pdf/2026_12081_es.pdf
 
+1.4 CONTEXTO DEL CURSO 2026-2027: VAGA EDUCATIVA [D]
+    - Según el blog del grupo municipal de gobierno, a fecha del 20 de mayo de
+      2026 la comunidad educativa valenciana mantenía una vaga indefinida
+      iniciada el 11 de mayo de 2026 (reivindicaciones: más recursos, reducción
+      de ratios, mejora de condiciones del personal y de infraestructuras).
+    - El Ayuntamiento de Manises convocó un Consell Escolar Municipal
+      extraordinario el 20 de mayo de 2026 y aprobó en el pleno del 28 de mayo
+      de 2026 una moción de apoyo a las reivindicaciones de la vaga y del
+      sector educativo.
+    - El Ceràmic Fest (26 de junio de 2026) destinó parte de su recaudación a
+      la caixa de resistència de la vaga educativa, impulsada por la
+      Coordinadora d'Assemblees Docents del País Valencià.
+    - Recomendación práctica: si la persona pregunta por horarios, calendario o
+      actividades de un centro afectados por la vaga, remitir al centro.
+    Fuente [D]: blog APM-Compromís Manises (notas de 20, 28 y 9 de junio de 2026).
+
 --------------------------------------------------------------------------------
 2. EDUCACIÓN INFANTIL 0-3 AÑOS (PRIMER CICLO)
 --------------------------------------------------------------------------------
 Fuente general [A]: https://www.manises.es/es/educacio/pagina/educacion-infantil-0-3
 Gestión municipal: Concejalía de Educación (unidad "Educación e Infancia").
+Contacto del área publicado en notas municipales: educacion@manises.es e
+infancia@manises.es [D].
 
 2.1 Escuelas Infantiles Municipales (EIM) [A]
     - EIM La Tarara: C/ Paterna, 12. Tel. 96 154 67 18. eitarara@manises.es
@@ -110,7 +147,7 @@ Gestión municipal: Concejalía de Educación (unidad "Educación e Infancia").
     Los listados de admitidos 2026-2027 y el "calendario de admisión
     2026-2027" figuran en:
     https://www.manises.es/es/educacio/pagina/escuelas-infantiles-municipales
-    (no se pudieron leer las fechas de esa página; ver apartado 13).
+    (no se pudieron leer las fechas de esa página; ver apartado 14).
 
 2.2 Edades por escuela (datos del curso 2025-2026) [A]
     - La Tarara: nacidos en 2024 y 2025.
@@ -222,7 +259,7 @@ Fuentes generales [A]:
 4.3 IES Pere Boïl [A/C]
     - C/ Ceramista Alfons Blat, 12 (registro de la Generalitat y web del
       centro) o nº 20 (domicilio social en la web del centro y listado
-      municipal). Ver discrepancia en el apartado 12.
+      municipal). Ver discrepancia en el apartado 13.
     - Tel. 961 20 62 25. Email: 46017535@edu.gva.es y secretaria@pereboil.com
     - Web: https://pereboil.com/es/el-centro/  y  www.pereboil.com
     - Conserjería: lunes a jueves de 8:00 a 20:30; viernes de 8:00 a 18:00
@@ -251,6 +288,11 @@ Fuentes generales [A]:
       https://www.manises.es/es/taxonomy/term/1053?page=6
     - Para FP: los ciclos incluyen un módulo de formación en centros de trabajo;
       preguntar al instituto por empresas colaboradoras.
+    - Dato de parte [D]: en el Taller de Ocupación 2024 "Manises Sostenible"
+      (finalizado en febrero de 2026), el alumnado de la especialidad de
+      Administración realizó sus prácticas formativas en departamentos del
+      Ayuntamiento (Promoción Económica, Urbanismo, Educación, Tesorería y
+      OAC); ver apartado 8.5.
 
 --------------------------------------------------------------------------------
 5. ENSEÑANZAS ARTÍSTICAS: ESCOLA D'ART I SUPERIOR DE CERÀMICA (EASC)
@@ -265,6 +307,12 @@ Fuentes generales [A]:
   como grado superior de artes plásticas y diseño:
   https://www.emagister.com/cursos-escola-superior-ceramica-manises-cen-36993.htm
   La oferta vigente 2026-2027 NO se contrastó con la web del centro.
+- Corroboración de parte [D]: la biografía del ceramista Pepe Royo Alcaraz
+  (homenajeado en la Festa de la Ceràmica de 2026, ceramista local de séptima
+  generación) indica que cursó en la Escola Superior de Cerámica de Manises
+  "los Estudios Superiores de Cerámica, el Grau en Cerámica y el Cicle de
+  Ceràmica Artística". Dato coherente con el directorio pero no contrastado
+  con la web del centro.
 - Acceso: la Generalitat incluye a la EASC de Manises entre los centros donde se
   realiza la prueba específica y la prueba de acceso para personas sin requisitos
   académicos (anexos de 2026). Fechas y requisitos: consultar la convocatoria.
@@ -342,7 +390,7 @@ Organiza: Concejalía de Cultura del Ayuntamiento de Manises.
   (https://manises.sedipualba.es/carpetaciudadana/tramite.aspx?idtramite=10471)
 - La página municipal publica la oferta y la solicitud de plaza. Los datos
   que se pudieron consultar son del curso 2025-2026; la oferta 2026-2027 NO se
-  localizó (apartado 13).
+  localizó (apartado 14).
 
 7.1 Talleres listados en la sede electrónica (curso 2025-2026) [A]
     Costura, Pintura y dibujo, Patchwork, Batería, Guitarra eléctrica y bajo,
@@ -389,6 +437,19 @@ Organiza: Concejalía de Cultura del Ayuntamiento de Manises.
     - Fecha del artículo no confirmada; no usar sus cifras como actuales.
       https://www.elperiodic.com/manises/centenares-familias-podido-conciliar-durante-junio-julio-gracias-campamento-urbano-escoleta-verano-municipales_1029926
 
+7.6 ACTIVIDADES CULTURALES CON PARTICIPACIÓN ESCOLAR (novedades 2026) [D]
+    - "Anem al Teatre" (38ª edición, marzo 2026): campaña de teatro escolar en
+      el Auditori Germanies. Participa el alumnado de TODOS los centros
+      escolares públicos y concertados de Manises, así como de las escuelas
+      infantiles municipales (obras como "Clip!", "Les cartes del Quixot",
+      "Iaio" o "La flor Flora" según edades). Fuente: blog del grupo municipal,
+      nota del 24-03-2026.
+    - Pint of Science (18-20 de mayo de 2026): Manises se estrenó en este
+      festival gratuito de divulgación científica; 10 charlas en el
+      bar-restaurant Sant Joan Bistro. No es una actividad escolar, pero puede
+      interesar a familias y jóvenes. Fuente: blog del grupo municipal, nota del
+      13-05-2026. https://pintofscience.es/events/manises/
+
 --------------------------------------------------------------------------------
 8. FORMACIÓN PARA EL EMPLEO, ORIENTACIÓN Y TALLERES DE EMPLEO
 --------------------------------------------------------------------------------
@@ -409,11 +470,23 @@ Organiza: Concejalía de Cultura del Ayuntamiento de Manises.
     - En la consulta de mayo de 2026 la sección de cursos indicaba que no había
       cursos disponibles en ese momento. No asumir que haya cursos abiertos.
 
-8.3 Programas mixtos de empleo y formación [A/B]
+8.3 Programas mixtos de empleo y formación [A/B/D]
     - Taller de Empleo "Manises Accesible II", con LABORA, anunciado el 15 de
-      abril de 2026. Va dirigido a personas desempleadas (el Ayuntamiento indica
+      abril de 2026. Dirigido a personas desempleadas (el Ayuntamiento indica
       "mayores de 16 años"). Combina formación y trabajo en mejora del entorno
       urbano (aceras, parques y jardines, recogida selectiva).
+      DETALLES AMPLIADOS [D, nota del 15-04-2026]:
+      * Duración: 12 meses.
+      * Plazas: 30, en tres especialidades (albañilería, medioambiente y
+        jardinería), 10 participantes por especialidad.
+      * Cada especialidad incluye DOS certificados de profesionalidad
+        (niveles 1 y 2).
+      * Los participantes tienen contrato laboral y alta en la Seguridad
+        Social durante el programa.
+      * Trabajos: reparación de aceras, mantenimiento de parques y jardines,
+        recogida selectiva de residuos.
+      * Para inscripción y requisitos: Centre de Promoció (96 152 46 32 /
+        promocio@manises.es).
       https://www.manises.es/es/noticia/ayuntamiento-manises-pone-marcha-taller-ocupacion-manises-accesible-ii
     - Descripción general de talleres de empleo (mayores de 25 años, 1 año) y
       escuelas taller (menores de 25, 2 años), cofinanciados con el SERVEF
@@ -435,21 +508,168 @@ Organiza: Concejalía de Cultura del Ayuntamiento de Manises.
       Manises NO se pudo consultar en este estudio (el buscador de cursos es
       dinámico). Remitir a https://puntlabora.gva.es/ofsrvfor/consultar?lang=ca
 
---------------------------------------------------------------------------------
-9. AYUDAS MUNICIPALES AL TRANSPORTE DE ESTUDIANTES [B]
---------------------------------------------------------------------------------
-- Convocatoria del Ayuntamiento para el curso 2025-2026 (noticia de junio de
-  2026): 90.000 euros; máximo 149,90 euros por estudiante.
-- Dirigida a estudiantes empadronados en Manises de universidad, enseñanzas
-  artísticas superiores, FP Básica y ciclos de grado medio y superior, que deban
-  desplazarse fuera del municipio porque sus estudios no se imparten en Manises o
-  no obtuvieron plaza en la oferta existente. Trámite también presencial en la OAC.
-- La convocatoria 2026-2027 NO se localizó.
-  https://valenciaplaza.com/valenciaplaza/comarca-y-empresa/manises-destina-90000-euros-a-ayudas-de-transporte-para-estudiantes-del-curso-2025-2026
-  https://www.elperiodic.com/val/manises/manises-destina-90000-euros-ajudes-transport-estudiants-curs-2025-2026_1081032
+8.5 TALLER DE OCUPACIÓN 2024 "MANISES SOSTENIBLE" (FINALIZADO) [D]
+    - Finalizó en febrero de 2026 tras un año de duración.
+    - Especialidades formativas: jardinería, administración y medio ambiente.
+    - El alumnado de administración realizó prácticas formativas en
+      departamentos del Ayuntamiento (Promoción Económica, Urbanismo,
+      Educación, Tesorería y OAC).
+    - El alumnado de medio ambiente hizo trabajos de limpieza viaria (polígono
+      del aeropuerto, barrio Socusa, Passeig de l'Horta), limpieza de imbornales
+      y recogida selectiva de residuos en establecimientos hosteleros.
+    - El alumnado de jardinería actuó en el Poliesportiu municipal (enjardinamiento
+      del parking, arborización junto a las gradas del campo de fútbol).
+    Fuente: blog del grupo municipal, nota del 27-02-2026. Referencia útil del
+    tipo de prácticas que incluyen estos programas (ver apartado 4.5).
+
+8.6 FIRA ORIENTA'T (PRIMERA EDICIÓN, ENERO 2026) [D]
+    - Fira de orientación para jóvenes sobre estudios, itinerarios formativos y
+      salidas profesionales tras la etapa obligatoria y postobligatoria:
+      universidad, FP, certificados, oposiciones y oportunidades laborales.
+    - Primera edición: del 12 al 15 de enero de 2026.
+    - Sede: Centre Sociocultural Les Simetes (12 y 13 de enero, visitas
+      concertadas de los institutos locales, 9-14 h; 12 de enero, sesión de
+      puertas abiertas 17-19 h) y Centre Municipal de Joventut (14 y 15 de
+      enero, visitas concertadas 9-14 h; 14 de enero, puertas abiertas 17-19 h).
+    - Organizada por el Ayuntamiento. Si se consolida como cita anual, la
+      edición siguiente sería en enero de 2027: confirmar fechas en
+      https://www.manises.es/ o con el área de Educación (educacion@manises.es).
+    Fuente: blog del grupo municipal, nota del 08-01-2026.
+
+8.7 OBSERVATORI D'IGUALTAT EDUCATIVA (INFORME 2026) [D]
+    - El Ayuntamiento presentó un nuevo informe del Observatori d'Igualtat
+      Educativa el 5 de marzo de 2026 (instrumento municipal en marcha desde
+      2017, elaborado con la Universitat de València).
+    - Conclusiones destacadas: el crecimiento demográfico previsto en Manises
+      obligará a ampliar unidades educativas en Primaria y en Secundaria; es
+      necesario reforzar la promoción de estudios superiores; la escolarización
+      infantil cumple los objetivos europeos.
+    - Dato de interés para el agente: si preguntan por la apertura de nuevas
+      aulas o centros, remitir al Ayuntamiento (educacion@manises.es): existe
+      un estudio municipal que prevé ampliación de unidades.
+    Fuente: blog del grupo municipal, nota del 05-03-2026.
+
+8.8 ESPAI JUVENIL SENSEY (EN OBRAS) [D]
+    - En junio de 2026 comenzaron las obras de rehabilitación integral del
+      antiguo edificio municipal Sensey para convertirlo en un espacio juvenil
+      con salas multiusos destinadas a talleres, cursos y actividades culturales,
+      y con el patio interior recuperado como zona al aire libre.
+    - Responde al Pla Municipal de Joventut (aprobado en 2022), que detectó la
+      demanda de espacios propios para la juventud en el casco urbano.
+    - ESTADO: en obras (junio de 2026); no hay fecha de apertura ni programación
+      de cursos. Preguntar en el Centre Municipal de Joventut.
+    Fuente: blog del grupo municipal, nota del 17-06-2026.
 
 --------------------------------------------------------------------------------
-10. RESUMEN RÁPIDO DE CENTROS (DIRECCIONES Y TELÉFONOS)
+9. AYUDAS MUNICIPALES AL TRANSPORTE DE ESTUDIANTES [B/D]
+--------------------------------------------------------------------------------
+- Convocatoria del Ayuntamiento para el curso 2025-2026 (noticias de junio de
+  2026): partida de 90.000 euros; importe máximo de 149,90 euros por
+  estudiante.
+- Destinataria: estudiantes empadronados en Manises que cursen estudios
+  oficiales en centros públicos, concertados o privados de la Comunitat
+  Valenciana —universidad, enseñanzas artísticas superiores, FP Básica y
+  ciclos de grado medio y superior— que necesiten desplazarse fuera del
+  municipio porque esos estudios no se imparten en Manises o no obtuvieron
+  plaza en la oferta existente.
+- PLAZO (curso 2025-2026): diez días hábiles contados desde el 25 de junio de
+  2026, fecha de publicación del extracto de la convocatoria en el BOP de
+  València (anunciado el 23-06-2026). ESTE PLAZO YA HA FINALIZADO: servir
+  solo como referencia para futuras convocatorias.
+- Cómo se solicita: mediante modelo normalizado del Ayuntamiento, con la
+  documentación de las bases; preferentemente por el registro telemático de
+  la sede electrónica (https://manises.sedipualba.es/) o presencialmente en
+  la OAC.
+- Información: educacion@manises.es.
+- Presupuestos municipales 2026: incluyen una partida de 80.000 euros para
+  ayudas de transporte para jóvenes, tras la eliminación de las ayudas
+  previstas por la Generalitat Valenciana para 2026 [D, nota del 29-12-2025].
+- La convocatoria 2026-2027 NO se localizó.
+  Fuentes: https://valenciaplaza.com/valenciaplaza/comarca-y-empresa/manises-destina-90000-euros-a-ayudas-de-transporte-para-estudiantes-del-curso-2025-2026
+  https://www.elperiodic.com/val/manises/manises-destina-90000-euros-ajudes-transport-estudiants-curs-2025-2026_1081032
+  [D] Blog APM-Compromís Manises, nota del 23-06-2026.
+
+--------------------------------------------------------------------------------
+10. PLA EDIFICANT: ESTADO DE LAS OBRAS DE LOS CENTROS ESCOLARES
+--------------------------------------------------------------------------------
+ATENCIÓN: toda la información de este apartado procede de comunicados del
+grupo municipal de gobierno (blog APM-Compromís, notas de noviembre 2025 a
+mayo de 2026) [D]. Son las reclamaciones y el estado que informa el
+consistorio; no están contrastadas con la Conselleria d'Educació. Tratar
+como situación declarada por el Ayuntamiento a fecha de mayo de 2026.
+
+10.1 Situación por centro (según el Ayuntamiento) [D]
+    - CEIP Vicente Nicolau Balaguer: proyectada la CONSTRUCCIÓN DE UN CENTRO
+      NUEVO en un solar municipal próximo al IES José Rodrigo Botet (el
+      edificio actual tiene casi 70 años). El nuevo centro tendrá aulas de
+      Infantil y Primaria, gimnasio y comedor escolar, con criterios de
+      sostenibilidad, eficiencia energética y confort acústico y climático.
+      Cronología: marzo de 2026, proyecto técnico finalizado y solicitada a la
+      Conselleria la ampliación de las dotaciones delegadas (el Ayuntamiento
+      cita unas delegaciones de unos 6 millones de euros); 30-04-2026, el pleno
+      aprueba por unanimidad la modificación de la delegación; 20-05-2026, el
+      pleno ratifica los nuevos importes; siguiente paso: resolución de la
+      Conselleria y licitación de las obras. ESTADO: sin fecha de inicio de
+      obras.
+    - CEIP José García Planells: obras de mejora incluidas en el Pla Edificant
+      (solicitadas en noviembre de 2024). La licitación de 2023 quedó desierta
+      por insuficiencia presupuestaria. El 20-05-2026 el pleno aprobó un
+      incremento de 116.317,04 euros sobre la delegación inicial de
+      735.151,85 euros; nueva cuantía: 851.468,89 euros. Pendiente de
+      resolución de la Conselleria y nueva licitación.
+    - CEIP Enric Valor i Vives: parte de las actuaciones, consideradas de
+      urgencia, ya se ejecutó entre julio y diciembre de 2024 con una inversión
+      de 222.388,01 euros. El 20-05-2026 el pleno aprobó la modificación del
+      presupuesto con un incremento de 199.650,08 euros sobre la delegación
+      pendiente de ejecutar, que era de 599.634,70 euros (solicitada en enero
+      de 2025). Pendiente de licitación.
+    - CEIP Joan Fuster: SIN DELEGACIÓN EFECTIVA. Según el Ayuntamiento, en la
+      reunión de febrero de 2026 la Conselleria reafirmó el compromiso de
+      financiar y ejecutar las obras de mejora, pero anunció que tardarán, al
+      menos, CUATRO AÑOS. El Ayuntamiento ya ha expropiado los terrenos
+      necesarios para la ampliación del centro. El equipo de gobierno subraya
+      que el centro atiende a numeroso alumnado con diversidad funcional motora
+      y requiere obras urgentes de accesibilidad. (En la visita del 16-10-2024,
+      el Director de Infraestructuras Educativas había asegurado que el
+      financiamiento se incluiría en los presupuestos de la Generalitat de
+      2025, según el consistorio.)
+    - IES Pere Boïl: el proyecto no recibe respuesta de la Conselleria desde
+      marzo de 2023 (moción municipal de 07-11-2025). Sin delegación de
+      competencias.
+    - IES Ausiàs March: el proyecto no recibe respuesta desde diciembre de 2021
+      (moción municipal de 07-11-2025). Sin delegación de competencias.
+    - Centros YA actuados en Manises dentro del Pla Edificant, según el
+      consistorio: CEIP Félix Rodríguez de la Fuente y CEIP Benjamín Benlloch
+      (2024) e IES José Rodrigo Botet (2023).
+    Tras las aprobaciones de mayo de 2026, el Ayuntamiento indica que el
+    CEIP Joan Fuster y los institutos Ausiàs March y Pere Boïl quedan "en manos
+    de la Conselleria d'Educació".
+
+10.2 Antecedente: retirada de la delegación del auditorio [D]
+    - El 15-04-2024 la Direcció General d'Infraestructures Educatives comunicó
+      al Ayuntamiento la suspensión cautelar de la delegación de competencias
+      para finalizar el auditorio inacabado (revocación que el consistorio
+      recibió como definitiva el 06-06-2024). Las delegaciones implicaban una
+      inversión total de 10.421.070,58 euros (plan de anualidad 2024-2027).
+      Según el Ayuntamiento, la Conselleria le ofreció telefónicamente
+      transvasar esos 10 millones a las obras del CEIP Joan Fuster; el
+      consistorio afirma que, un año y medio después, ninguno de los dos
+      proyectos se había puesto en marcha ni se habían devuelto los fondos.
+      El Ayuntamiento recurre la decisión por vía judicial.
+
+10.3 Reclamación general del Ayuntamiento [D]
+    - El Ayuntamiento se adhirió al Pla Edificant en diciembre de 2017 y acusa
+      a la Conselleria de retrasos continuos, requerimientos reiterados de
+      documentación ya presentada y falta de resoluciones. Ha aprobado varias
+      mociones (noviembre 2025, enero 2026, febrero 2026, mayo 2026) exigiendo
+      el cumplimiento de los compromisos.
+    - SI LA PERSONA PREGUNTA POR OBRAS EN UN CENTRO: explicar que existen
+      proyectos aprobados por el pleno municipal pendientes de resolución y
+      licitación por la Conselleria, que el consistorio municipal anuncia
+      retrasos, y remitir al centro directamente para el día a día.
+
+--------------------------------------------------------------------------------
+11. RESUMEN RÁPIDO DE CENTROS (DIRECCIONES Y TELÉFONOS)
 --------------------------------------------------------------------------------
 EIM La Tarara ........ C/ Paterna 12 ................ 96 154 67 18
 EIM Gesmil ........... C/ Trinquet 5 ................ 96 152 07 09
@@ -470,9 +690,10 @@ EASC (Cerámica) ..... C/ Ceramista Alfons Blat 22 .. teléfono no localizado
 CFPA Menicil ......... C/ Sants Just i Pastor 70 ... 961 20 69 10
 Centre de Promoció ... C/ Valencia 22 .............. 96 152 46 32 / 96 152 49 79
 Cultura (talleres) ... Ayuntamiento ................. 96 153 43 10, ext. 8004
+Educación (área) ..... educacion@manises.es ......... infancia@manises.es [D]
 
 --------------------------------------------------------------------------------
-11. EJEMPLOS DE RESPUESTA CORRECTA
+12. EJEMPLOS DE RESPUESTA CORRECTA
 --------------------------------------------------------------------------------
 Pregunta: "¿Cuándo me apunto a una escuela infantil municipal?"
 Respuesta modelo: "Las escuelas infantiles municipales son La Tarara, Gesmil y
@@ -488,52 +709,73 @@ Respuesta modelo: "No dispongo del precio actual. Los precios se fijan en la
 ordenanza municipal de precios públicos de cultura y juventud. Contacta con
 Cultura (cultura@manises.es, 96 153 43 10, ext. 8004)."
 
+Pregunta: "¿Hay obras en el colegio de mi hijo/a?"
+Respuesta modelo: "Según el Ayuntamiento, varios centros de Manises tienen
+obras pendientes dentro del Pla Edificant. Puedo contarte el estado que
+informa el consistorio (ver apartado 10), pero lo más fiable es preguntar
+directamente al centro o en la web del Ayuntamiento, porque las obras
+dependen de la Conselleria d'Educació."
+
 --------------------------------------------------------------------------------
-12. DISCREPANCIAS ENTRE FUENTES (RESOLVER CON EL CENTRO)
+13. DISCREPANCIAS ENTRE FUENTES (RESOLVER CON EL CENTRO)
 --------------------------------------------------------------------------------
-12.1 IES Pere Boïl: dirección "C/ Ceramista Alfons Blat, 12" (registro de la
+13.1 IES Pere Boïl: dirección "C/ Ceramista Alfons Blat, 12" (registro de la
      Generalitat y web del centro) frente a "nº 20" (domicilio social en la web
      del centro y listado municipal). El Ayuntamiento cita el código/mail
      46020421, mientras que el registro de la Generalitat y la web del centro
      usan 46017535. Se ofrecen ambos datos; el código 46017535 aparece en el
      registro de la Generalitat.
-12.2 Plazo de solicitud de Bachillerato 2026-2027: un aviso de un CEIP de otra
+13.2 Plazo de solicitud de Bachillerato 2026-2027: un aviso de un CEIP de otra
      localidad indica "del 21 de mayo al 21 de junio" para ESO y Bachillerato,
      mientras que el portal que reproduce la resolución indica para ESO del 21 de
      mayo al 1 de junio. No se ha confirmado el plazo de Bachillerato.
-12.3 Colegio El Carmen: la web municipal ofrece dos denominaciones y dos juegos
+13.3 Colegio El Carmen: la web municipal ofrece dos denominaciones y dos juegos
      de contacto (Colegio El Carmen y Centro Trilema El Carmen).
-12.4 IES Ausiàs March: un portal de terceros ofrece un teléfono distinto del
+13.4 IES Ausiàs March: un portal de terceros ofrece un teléfono distinto del
      oficial del Ayuntamiento (se usa el del Ayuntamiento).
-12.5 EI Príncipe Valiente: teléfono de la web municipal posiblemente antiguo.
+13.5 EI Príncipe Valiente: teléfono de la web municipal posiblemente antiguo.
+13.6 Estado del Pla Edificant (apartado 10): los datos proceden de comunicados
+     del grupo municipal de gobierno, que mantienen una reclamación pública
+     contra la Conselleria d'Educació. Pueden no reflejar el estado real de
+     tramitación; contrastar con la Conselleria o con el propio centro.
 
 --------------------------------------------------------------------------------
-13. DATOS NO LOCALIZADOS O PENDIENTES DE VERIFICAR (NO PRESENTAR COMO HECHOS)
+14. DATOS NO LOCALIZADOS O PENDIENTES DE VERIFICAR (NO PRESENTAR COMO HECHOS)
 --------------------------------------------------------------------------------
-13.1 Calendario de admisión 2026-2027 de las Escuelas Infantiles Municipales y
+14.1 Calendario de admisión 2026-2027 de las Escuelas Infantiles Municipales y
      sus tasas (la página existe, pero no se pudo leer; la web municipal bloquea
      la lectura automática).
-13.2 Oferta, precios y plazos de los talleres de Cultura del curso 2026-2027.
-13.3 Matrícula 2026/27 y oferta 2026-2027 del CFPA Menicil (páginas existentes
+14.2 Oferta, precios y plazos de los talleres de Cultura del curso 2026-2027.
+14.3 Matrícula 2026/27 y oferta 2026-2027 del CFPA Menicil (páginas existentes
      pero no legibles); coste de matrícula; requisitos por curso; email.
-13.4 Teléfono y correo de la EASC; oferta y plazos de admisión vigentes.
-13.5 Lista completa y verificada de ciclos formativos de cada instituto.
-13.6 Cuotas de los colegios concertados.
-13.7 Escuela de música, conservatorio, escuela de idiomas oficial o universidad
+14.4 Teléfono y correo de la EASC; oferta y plazos de admisión vigentes.
+14.5 Lista completa y verificada de ciclos formativos de cada instituto.
+14.6 Cuotas de los colegios concertados.
+14.7 Escuela de música, conservatorio, escuela de idiomas oficial o universidad
      en el propio municipio: no se localizó información fiable.
-13.8 Oferta de academias privadas y centros de formación homologados por LABORA
+14.8 Oferta de academias privadas y centros de formación homologados por LABORA
      en Manises: no verificada. Un directorio cita una academia "Tevian S.L.",
      C/ Aviación 15, tel. 963 85 33 05 (sin confirmar su oferta):
      https://www.nomas900.org/tevian-s-l-manises-1293487
-13.9 Formación impartida por empresas del municipio: no localizada.
-13.10 Calendarios de admisión del curso 2027-2028: no localizados.
-13.11 Educación Especial y atención a necesidades específicas: no investigado.
-13.12 Fiabilidad: gran parte de la información municipal procede de resultados
-     de búsqueda de las páginas del Ayuntamiento, cuyo sitio impide la descarga
-     automática. Conviene que una persona compruebe esas páginas.
+14.9 Formación impartida por empresas del municipio: no localizada.
+14.10 Calendarios de admisión del curso 2027-2028: no localizados.
+14.11 Educación Especial y atención a necesidades específicas: no investigado.
+     Nota de parte [D]: existe el Centre Ocupacional Municipal Francisco
+     Navarro Tarín (servicio municipal para personas con discapacidad
+     intelectual: talleres prelaborales y actividades como estimulación
+     cognitiva, deporte, cerámica, música, nutrición y natación terapéutica;
+     su presupuesto 2025-2028 se incrementó un 15%, según nota municipal del
+     16-10-2025). NO es un centro escolar: remitir para escolarización a la
+     Conselleria d'Educació y, para el ámbito sociolaboral, a Serveis Socials.
+14.12 Fiabilidad: gran parte de la información municipal procede de resultados
+     de búsqueda de las páginas del Ayuntamiento, cuyo sitio impide la
+     descarga automática. Conviene que una persona compruebe esas páginas.
+14.13 Estado actualizado (post-mayo 2026) de las licitaciones del Pla
+     Edificant, en especial del nuevo CEIP Vicente Nicolau Balaguer: no
+     verificado desde fuentes autonómicas (ver apartado 10).
 
 --------------------------------------------------------------------------------
-14. ENLACES CLAVE PARA REMITIR A LA PERSONA USUARIA
+15. ENLACES CLAVE PARA REMITIR A LA PERSONA USUARIA
 --------------------------------------------------------------------------------
 - Admisión escolar (Infantil, Primaria, ESO, Bachillerato, FP): https://portal.edu.gva.es/adminova/
 - Admisión FP (información): https://ceice.gva.es/es/web/formacion-profesional/admissio
@@ -549,6 +791,50 @@ Cultura (cultura@manises.es, 96 153 43 10, ext. 8004)."
 - CFPA Menicil: https://portal.edu.gva.es/epamanises/
 - LABORA: https://labora.gva.es/
 - Cursos LABORA: https://puntlabora.gva.es/ofsrvfor/consultar?lang=ca
+- Contactos municipales publicados: educacion@manises.es (Educación),
+  infancia@manises.es (Infancia), cultura@manises.es (Cultura),
+  promocio@manises.es (empleo/formación) [A/D].
+
+--------------------------------------------------------------------------------
+APÉNDICE: FUENTES DE LA AMPLIACIÓN (7 de noviembre de 2026)
+--------------------------------------------------------------------------------
+Blog del grupo municipal APM-Compromís de Manises (compromis.net; fuente [D],
+fuente de parte). Noticias incorporadas y fecha de publicación:
+- 25-06-2026: Manises té nou alcalde (contexto institucional).
+- 29-06-2026: Subvencions ceràmica façanes (no educativa; descartada).
+- 23-06-2026: Manises destina 90.000 euros a ajudes de transport per a
+  estudiants del curs 2025-2026 (apartado 9).
+- 17-06-2026: Obres antic edifici Sensey, nou espai juvenil (apartado 8.8).
+- 16-06-2026: Festa de la Ceràmica 11-12 juliol; biografía de Pepe Royo
+  (corroboración de estudios EASC, apartado 5).
+- 09-06-2026: Ceràmic Fest i caixa de resistència de la vaga educativa
+  (apartado 1.4).
+- 28-05-2026: Moció de suport a la vaga educativa (apartado 1.4).
+- 20-05-2026: Consell Escolar extraordinario y prorroga de presupuestos del
+  Pla Edificant (apartados 1.4 y 10).
+- 08-01-2026: Fira Orienta't (apartado 8.6).
+- 29-12-2025: Pressupostos 2026, incl. partida de 80.000 euros per a
+  ajudes de transport per a joves (apartado 9).
+- 05-03-2026: Informe de l'Observatori d'Igualtat Educativa (apartado 8.7).
+- 27-02-2026: Finalitza el Taller d'Ocupació 2024 Manises Sostenible
+  (apartados 4.5 y 8.5).
+- 15-04-2026: Taller de Ocupación Manises Accesible II (ampliación de 8.3).
+- 09-04-2026: Señalización de emergencias en colegios públicos (ver nota
+  en apartado 13.6; dato institucional, sin sección propia por no afectar
+  a la oferta formativa).
+- 04-12-2025: Carrer Terol convertido en área recreativa infantil junto a
+  los colegios (misma consideración).
+- 30-04-2026 y 11-03-2026: Nou CEIP Vicente Nicolau Balaguer (apartado 10).
+- 10-02-2026 y 30-01-2026: Reclamaciones sobre el Pla Edificant, CEIP Joan
+  Fuster y retirada de la delegación del auditorio (apartado 10).
+- 07-11-2025: Moció sobre el Pla Edificant; IES Pere Boïl (marzo 2023) e
+  IES Ausiàs March (diciembre 2021) sin respuesta (apartado 10).
+- 26-09-2025: Protocolo de emergencias (dato institucional; las medidas
+  por niveles afectan al cierre de centros; sin sección propia por no
+  ser oferta formativa, pero relevante para familias en episodios
+  meteorológicos adversos).
+- 24-03-2026: Anem al Teatre (apartado 7.6).
+- 13-05-2026: Pint of Science (apartado 7.6).
 
 ================================================================================
 FIN DEL DOCUMENTO
